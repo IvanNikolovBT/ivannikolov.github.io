@@ -1,0 +1,264 @@
+header {
+    background: black;
+    height: 180px;
+    border-bottom: 1px solid #cecfd5;
+    color: white;
+    border-bottom: 15px  solid darkred;
+}
+.container
+{
+    margin:auto;
+    width:1300px;
+    height:900px;
+    background: linear-gradient(to bottom, cornsilk,#f5f1da);
+    box-sizing: border-box;
+    font-family: "Times New Roman", "Serif";
+}
+#logo
+{
+    float:right;
+    margin-right: 50px;
+
+    margin-top:-90px;
+
+}
+#content
+{
+    margin-left:150px;
+    margin-right:150px;
+    text-align: justify;
+    font-size: 1.6em;
+    font-weight: bold;
+    float:right;
+    box-sizing: border-box;
+    margin-bottom: 200px;
+}
+#content div:first-child
+{
+    color:#d993a7;
+    margin-right:-30px;
+    clear:both;
+    font-size: 2em;
+}
+div img
+{
+    float:left;
+    margin-top:30px;
+    margin-right:30px;
+    margin-bottom: 10px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+footer
+{
+    background-color: black;
+    height:100px;
+    clear:both;
+    color:white;
+    margin-bottom: -100px;
+    box-sizing: border-box;
+    list-style-type:none;
+    padding-left:150px;
+    padding-top:10px;
+    border-top:15px solid darkred;
+}
+footer ul li
+{
+    float:left;
+    list-style-type:none;
+    margin-left:30px;
+
+}
+a
+{
+    color:white;
+    text-decoration: none;
+}
+a:hover
+{
+    color: darkred;
+}
+nav
+{
+    margin-top:100px;
+    font-size: 3em;
+    padding-left: 90px;
+}
+nav ul li
+{
+    float:left;
+    list-style-type:none;
+    margin-left:30px;
+    margin-top:100px;
+}
+#FOOTC
+{
+    float: left;
+    margin-top:-50px;
+}
+#poezija
+{
+    color:#d993a7;
+    text-align: center;
+    clear:both;
+    font-size: 3em;
+}
+.pesna
+{
+    color:#d993a7;
+    width: 28%;
+    background-color: darkred;
+    float:left;
+    margin-left:30px;
+    height:300px;
+    margin-bottom: 150px;
+    margin-top:100px;
+    padding:10px;
+    border: 2px solid darkred;
+    border-radius: 25px;
+}
+#pesna1
+{
+    color:#d993a7;
+    padding-top:30px;
+    float:left;
+}
+#pesna2
+{
+    color:#d993a7;
+    padding-top:30px;
+    float:left;
+}
+#pesna3
+{
+    color:#d993a7;
+    padding-top:30px;
+    float:left;
+}
+#naslovP
+{
+    font-size: 2em;
+    padding-top:15px;
+    color:#d993a7;
+    text-align: center;
+}
+#poez
+{
+    text-align: left;
+    margin-left:450px;
+    color:black;
+    font-size: 1.38em;
+    height:650px;
+    font-weight: bold;
+    padding-top:30px;
+    box-sizing: border-box;
+
+}
+fieldset
+{
+    height:300px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left:150px;
+    margin-right: 150px;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+#naslovK
+{
+    font-size: 4.3em;
+    padding-top:15px;
+    color:#d993a7;
+    text-align: center;
+}
+#kontakttext
+{
+    font-size:2em;
+    text-align: justify;
+    text-decoration: none;
+    color: black;
+            padding-left: 30px;
+    box-sizing: border-box;
+    padding-right: 70px;
+    margin-bottom: 30px;
+}
+#kontakttext a
+{
+    text-decoration: none;
+    color: darkred  ;
+}
+.ime
+{
+   padding-left: 30px;
+    font-size: 2.1em;
+}
+#levo
+{
+    float:left;
+    margin-right: 45px;
+}
+textarea
+{font-size: 2.1em;}
+ #textarea div
+{
+     font-size: 2.1em;
+}
+ #naslovZ
+ {
+     font-size: 2.1em;
+ }
+ input
+ {
+     font-size: 20px;
+ }
+ button
+ {
+     clear: both;
+     margin:auto;
+     margin-left:25%;
+     margin-top: 20px;
+     width: 400px;
+     background-color: darkred;
+     color:black;
+     border-radius: 5%;
+     border-width: 7px;
+     border-color: darkred;
+     font-size: 2em;
+ }
+
+ .hobi
+ {
+     background-color: darkred;
+     font-size:1em;
+     border-radius: 50px;
+
+
+     float:left;
+     width: 25%;
+     margin-left: 35px;
+     height:150px;
+     text-align: center;
+     vertical-align: center;
+     padding-top: 50px;
+     padding-left:30px;
+     padding-right: 10px;
+     margin-bottom: 330px;
+     margin-top:50px ;
+ }
+ .hobi a
+ {
+     color:#d993a7 ;
+     text-decoration: none;
+ }
+ #left
+ {
+     float:left;
+     margin-left: -350px;
+ }
+ #velo
+ {
+     margin-top:30px;
+     padding-top:30px;
+     text-align: justify;
+     padding-right: 30px;
+ }
